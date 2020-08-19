@@ -1,3 +1,3 @@
 # Planet Beta
 
-The beta test code for planet.
+The current code for Planet. Check it out at: https://planet-app.github.io!
