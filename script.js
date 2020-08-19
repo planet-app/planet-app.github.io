@@ -63,7 +63,7 @@ function getRandomName() {
   const nouns = [" #01", " #02", " #03", " #04", " #05", " #06", " #07", " #08", " #09"];
   return (
     adjs[Math.floor(Math.random() * adjs.length)] +
-    "_" +
+    " " +
     nouns[Math.floor(Math.random() * nouns.length)]
   );
 }
