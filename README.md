@@ -1,3 +1,3 @@
-# Nexo Chat Test
+# Planet Beta
 
-The beta test code.
+The beta test code for planet.
